@@ -1,0 +1,67 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "病友良医",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "byly"
+        },
+        {
+            "id": 2,
+            "title": "老有厚德",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "lyhd"
+        },
+        {
+            "id": 3,
+            "title": "老有颐养",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "lyyy"
+        },
+        {
+            "id": 4,
+            "title": "弱有众扶",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "ryzf"
+        },
+        {
+            "id": 5,
+            "title": "优有善育",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "yysy"
+        },
+        {
+            "id": 6,
+            "title": "住有宜居",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "zyyj"
+        },
+        {
+            "id": 7,
+            "title": "学有优教",
+            "subtitle": "（二级）",
+            "score": "99分",
+            "ratio": "20%",
+            "color": "blue",
+            "class": "xyyj"
+        }
+    ]
+}
